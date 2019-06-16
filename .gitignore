@@ -1,2 +1,6 @@
 .idea/
 env/
+kelime/kelime/__pycache__/
+kelime/word/__pycache__/
+kelime/word/api/__pycache__/
+kelime/word/migrations/__pycache__/
